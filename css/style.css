@@ -1,0 +1,27 @@
+header {
+    background-color: #1E90FF !important;
+    padding: 3em !important;
+    text-align: center !important;
+
+}
+
+footer {
+    background-color: #1E90FF !important;
+    padding: 3em !important;
+    text-align: center !important;
+
+}
+
+body {
+    background-color: #00BFFF !important;
+}
+
+.central{
+    background-color: #87CEFA !important;
+    text-align: center !important;
+    padding: 3em !important;
+    margin-left: 20% !important;
+    margin-right: 20% !important;
+    margin-top: 20% !important;
+    margin-bottom: 20% !important;
+}
